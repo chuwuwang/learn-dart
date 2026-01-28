@@ -1,2 +1,1 @@
-# learn-dart
-Learn Dart knowledge points
+Learn Dart knowledge points.
